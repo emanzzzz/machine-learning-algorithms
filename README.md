@@ -1,2 +1,1 @@
-# machine-learning-algorithms
- Popular‌ ‌Machine‌ ‌Learning Algorithms
+# Machine Learning Algorithms
